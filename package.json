@@ -1,0 +1,9 @@
+{
+  "name": "cbr-confidence",
+  "version": "0.0.0",
+  "description": "to be provided",
+  "main": "main.coffee",
+  "author": "Julian Gonggrijp",
+  "license": "BSD-3-Clause",
+  "private": true
+}
